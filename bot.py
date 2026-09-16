@@ -25,8 +25,8 @@ DB_PATH = os.getenv("DB_PATH", "swim.db")
 # право добавлять/менять результаты и смотреть общую таблицу.
 # Узнать свой ID можно написав боту @userinfobot.
 ADMIN_IDS = {
-    111111111,  # <- впиши сюда свой Telegram ID
-    222222222,  # <- впиши сюда Telegram ID тренера
+    5220385313,  # <- впиши сюда свой Telegram ID
+    5683235845,  # <- впиши сюда Telegram ID тренера
 }
 
 logging.basicConfig(level=logging.INFO)
